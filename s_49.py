@@ -1,4 +1,4 @@
-# program thats prints minimum and maximum of five numbers entered by the user
+# Program thats prints minimum and maximum of five numbers entered by the user
 n = int(input("Enter the number: "))
 mn,mx = n,n
 

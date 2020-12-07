@@ -1,4 +1,4 @@
-# square and cubic the each elements of the list
+# square and cube the each elements of the list
 num = [2,3,4,5,6,7,8,9,12]
 def square(n):
     return n*n

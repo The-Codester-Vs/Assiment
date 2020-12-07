@@ -15,4 +15,5 @@ def sum_odd(lst):
 
 result_odd = sum_odd(num)
 result_even = sum_even(num)
-print(f"The sum of even numbers in the list {result_even} and The sum odd numbers in the list {result_odd}")
+print("The sum of even numbers in the list", result_even)
+print( "The sum odd numbers in the list ",result_odd)

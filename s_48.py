@@ -1,4 +1,4 @@
-# chicking the user is eligible to apply for a driving license
+# checking the user is eligible to apply for a driving license
 
 name = input("Enter name: ")
 age = int(input("Enter age: "))

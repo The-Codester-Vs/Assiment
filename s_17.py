@@ -1,6 +1,6 @@
 # displaying even numbers
 def even(n):
-    print(f"Even numbers between 1 and {n} are:",end = " ")
+    print(f"Even numbers between 1 and {n} are: \n",end = " ")
     for i in range(1,n + 1):   
         if i%2 == 0 :
             print(i,end =" ")

@@ -1,4 +1,4 @@
-# finding element form a list of element along with its index in the list.
+# Finding element form a list of element along with its index in the list.
 pos = -1
 
 def search(list,n):

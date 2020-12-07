@@ -6,4 +6,4 @@ for i in range(max):
     if i % 2 == 1:
         odd_numbers.append(i)
 
-print(f"Odd numbers between 0 to {max} are:{odd_numbers }")
+print(f"Odd numbers between 0 to {max} are:\n{odd_numbers }")

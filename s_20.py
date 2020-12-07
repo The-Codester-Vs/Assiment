@@ -1,13 +1,13 @@
 # snake water gun game 
 import random
 lst = ['s','w','g']
-chance = 5
+chance = 3
 no_of_chance = 0
 computer_point = 0
 your_point = 0
 print("SNAKE WATER GUN GAME.")
 print("s for Snake\nw for Water\ng for Gun")
-print("You have only 5 chance to win this game. ")
+print("You have only 3 chance to win this game. ")
 
 while no_of_chance < chance:
     user = input("Enter what you choose: ")

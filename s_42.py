@@ -1,4 +1,4 @@
-# cheching divisibility of a number
+# checking divisibility of a number
 
 number1 = int(input("Enter First number: "))
 number2 = int(input("Enter Second number: "))

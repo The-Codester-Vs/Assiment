@@ -2,7 +2,7 @@
 password = "1234"
 pw = ""
 count = 0
-max_count = 5
+max_count = 3
 auth = False
 
 while pw != password:
@@ -12,7 +12,7 @@ while pw != password:
     pw = input(f"{count}:What is the password?")
 else:
     auth = True
-
+    
 if auth:
     print("Authorized")  
 else:

@@ -1,6 +1,5 @@
-# Odd Even Checker
 while(1):
-    num = int(input(("Enter your number:\n")))
+    num = int(input(("Enter the number:\n")))
    
 
     if(num % 2 == 0):

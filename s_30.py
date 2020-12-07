@@ -1,9 +1,9 @@
-print('______________Number Guessing Game______________')
+print('________Number Guessing Game_________')
 
 n=18
-number_of_guesses=1
-chance = 5
-print("Number of guesses is limited to only 5 times: ")
+number_of_guesses= 1
+chance = 3
+print("Number of guesses is limited to only 3 times: ")
 while (number_of_guesses<=chance):
     guess_number = int(input("Guess the number :\n"))
     if guess_number<18:
@@ -14,9 +14,9 @@ while (number_of_guesses<=chance):
         print("you won\n")
         print(number_of_guesses,"no.of guesses you took to finish.")
         break
-    print(5-number_of_guesses,"no. of guesses left")
+    print(3-number_of_guesses,"no. of guesses left")
     number_of_guesses = number_of_guesses + 1
 
-if(number_of_guesses>5):
+if(number_of_guesses>3):
     print("Game Over")
        

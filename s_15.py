@@ -1,9 +1,5 @@
 def numpat(n): 
-      
-    # initialising starting number  
     num = 1
-  
-    # outer loop to handle number of rows 
     for i in range(0, n): 
 
         num = 1
@@ -14,7 +10,5 @@ def numpat(n):
           
             num = num + 1
         print("\r") 
-  
-# Driver code 
 n = int(input("Enter the number: "))
 numpat(n) 

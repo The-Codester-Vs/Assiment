@@ -1,4 +1,5 @@
-# program to print wheather a given character is an uppercase or a lower character or a digit or any other character
+# program to print wheather a given character is an uppercase
+# or a lower character or a digit or any other character
 ch = input("Enter a single character: ")
 
 if ch >= 'A' and ch <= 'Z':

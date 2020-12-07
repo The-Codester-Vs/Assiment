@@ -1,4 +1,4 @@
-# password generato
+# password generator
 
 import random
 print("1 for 4 Digit password.\n2 for 6 Digit password.\n3 for Alphabet password.")

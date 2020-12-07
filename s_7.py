@@ -1,4 +1,4 @@
-# factorail finder
+
 def factorail(n):
     if n == 0:
         return 1

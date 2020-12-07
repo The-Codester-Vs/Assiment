@@ -1,4 +1,3 @@
-# bubble sort
 
 List = [9,6,4,8,3,2,0,12,7,10]
 print(f"Original List:{List}")

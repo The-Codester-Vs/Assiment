@@ -7,7 +7,7 @@ def fib(num):
     
     
     if num == 1:
-        print("0 ")
+        print("0")
     else:    
         print(a)
         print(b)
