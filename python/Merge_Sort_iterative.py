@@ -6,7 +6,7 @@ def Merge(arr):
         
         Merge(l)
         Merge(r)
-        
+         
         i = 0
         j = 0
         k = 0

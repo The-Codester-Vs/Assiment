@@ -17,7 +17,7 @@ def Merge(left,right):
 def MergeSort(arr):
     if len(arr) <= 1:
         return arr
-    
+     
     mid = len(arr) // 2
     L = MergeSort (arr[:mid])
     R = MergeSort(arr[mid:])

@@ -1,3 +1,4 @@
+# Bubble sort
 list = [1,3,2,6,8,5,7,9,10,0,4]
 
 def bubble(list):
@@ -9,4 +10,4 @@ def bubble(list):
 
 
 result = bubble(list)
-print(list)       
+print(list)
